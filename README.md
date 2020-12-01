@@ -9,6 +9,14 @@ https://www.24joursdeweb.fr/ [fr]
 Un calendrier consacré à l'agilité.  
 https://agile.christmas/ [fr]
 
+## bekk christmas
+Un liste de calendrier.  
+https://bekk.christmas [en]
+
+## react christmas
+Un calendrier consacré à react.  
+https://react.christmas/2020 [en]
+
 ## Elm christmas
 Un calendrier sur le langage Elm.  
 https://www.elm.christmas/2020 [en]
