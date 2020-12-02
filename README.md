@@ -30,5 +30,5 @@ Un calendrier à propos de l'écosystème PHP.
 https://24daysindecember.net/ [en]
 
 ## Web Performance Calendar
-Un calendrier à propo des performances web
+Un calendrier à propo des performances web.  
 https://calendar.perfplanet.com/2020/ [en]
