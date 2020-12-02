@@ -24,3 +24,11 @@ https://www.elm.christmas/2020 [en]
 ## advent of code
 Un calendrier sous la forme d'un défi par jour à résoudre.  
 https://adventofcode.com/ [en]
+
+## 24 Days in December
+Un calendrier à propos de l'écosystème PHP.  
+https://24daysindecember.net/ [en]
+
+## Web Performance Calendar
+Un calendrier à propo des performances web
+https://calendar.perfplanet.com/2020/ [en]
