@@ -32,3 +32,7 @@ https://24daysindecember.net/ [en]
 ## Web Performance Calendar
 Un calendrier à propo des performances web.  
 https://calendar.perfplanet.com/2020/ [en]
+
+## PWAdvent
+Un calendrier qui traite des PWA
+https://pwadvent.dev/ [en]
