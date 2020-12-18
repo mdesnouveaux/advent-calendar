@@ -36,3 +36,7 @@ https://calendar.perfplanet.com/2020/ [en]
 ## PWAdvent
 Un calendrier qui traite des PWA.  
 https://pwadvent.dev/ [en]
+
+## 24 jours de l'email
+Un calendrier avec des articles consacré à l'email marketing   
+https://www.24jours.email/ [fr]
